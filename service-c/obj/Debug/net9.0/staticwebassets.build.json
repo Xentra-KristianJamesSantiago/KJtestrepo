@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "uyEjhl+D7ZItn5MgD2ehYQMfasSh1MLPKmeaSWEA2AY=",
+  "Source": "service-c",
+  "BasePath": "_content/service-c",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

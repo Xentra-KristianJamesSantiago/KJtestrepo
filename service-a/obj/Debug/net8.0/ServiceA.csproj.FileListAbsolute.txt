@@ -1,0 +1,6 @@
+C:\Users\Ynigo Javierto\Documents\GitHub\testrepo2\service-a\obj\Debug\net8.0\ServiceA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ynigo Javierto\Documents\GitHub\testrepo2\service-a\obj\Debug\net8.0\ServiceA.AssemblyInfoInputs.cache
+C:\Users\Ynigo Javierto\Documents\GitHub\testrepo2\service-a\obj\Debug\net8.0\ServiceA.AssemblyInfo.cs
+C:\Users\Ynigo Javierto\Documents\GitHub\testrepo2\service-a\obj\Debug\net8.0\ServiceA.csproj.CoreCompileInputs.cache
+C:\Users\Ynigo Javierto\Documents\GitHub\testrepo2\service-a\obj\Debug\net8.0\ServiceA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ynigo Javierto\Documents\GitHub\testrepo2\service-a\obj\Debug\net8.0\ServiceA.sourcelink.json
