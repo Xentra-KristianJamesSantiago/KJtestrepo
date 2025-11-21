@@ -2,7 +2,6 @@ pipeline {
     agent any
 
     environment {
-        AWS_CREDS        = credentials('aws-jenkins-creds')
         SONAR_SERVER     = 'sonarqube-server'
         SONAR_AUTH_TOKEN = credentials('sonarQube_token')
     }
