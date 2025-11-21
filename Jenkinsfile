@@ -5,7 +5,6 @@ pipeline {
         SONAR_SERVER     = 'sonarqube-server'
         SONAR_AUTH_TOKEN = credentials('sonarQube_token')
         PATH = "/usr/bin/dotnet"
-"
     }
 
     parameters {
